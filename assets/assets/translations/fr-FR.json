@@ -1,0 +1,95 @@
+{
+  "title": "iSalat",
+  "enterEmail": "Vous devez saisir votre email",
+  "invalidEmail": "Email non valide",
+  "enterFirstName": "Vous devez saisir votre prénom",
+  "invalidFirstName": "Prénom non valide",
+  "enterFamilyName": "Vous devez saisir votre nom de famille",
+  "invalidFamilyName": "Nom de famille non valide",
+  "enterPassword": "Vous devez saisir votre mot de passe",
+  "weakPassword": "Mot de passe trop faible",
+  "login": {
+    "passwordHint": "Mot de passe",
+    "confirmPasswordHint": "Confirmer le mot de passe",
+    "loginButton": "Se connecter",
+    "signupButton": "S'inscrire",
+    "firstName": "Prénom",
+    "familyName": "Nom de famille",
+    "gender": "Genre",
+    "signUpFormDescription": "Veuillez remplir ce formulaire pour compléter l'inscription",
+    "forgotPasswordButton": "Mot de passe oublié",
+    "recoverPasswordIntro": "Reinitialiser le mot de passe",
+    "recoverPasswordDescription": "Un mail avec votre mot de passe vous sera envoyé sur l'adresse email du compte",
+    "recoverPasswordButton": "Reinitialiser",
+    "goBackButton": "Précédent",
+    "unknownUser": "Utilisateur inconnnu",
+    "incorrectPassword": "Mot de passe incorrect",
+    "footer": "iSalat - 2022"
+  },
+  "onboarding": {
+    "letsGo": "Allons-y tout de suite !",
+    "signIn": "Se connecter",
+    "skip": "Passer",
+    "done": "Fait",
+    "recordTitle": "Enregistre",
+    "recordText": "En un clic, indique comment et quand tu as prié",
+    "trackTitle": "Suis",
+    "trackText": "Obtiens un suivi de tes prières pour connaître tes points forts et tes axes d'amélioration",
+    "improveTitle": "Améliore",
+    "improveText": "Fixe toi des objectifs pour t'améliorer",
+    "improveSalatTitle": "Améliore ta prière",
+    "improveSalatText": "Si vous ne souhaitez pas le mesurer, vous ne pourrez probablement pas le gérer.\n\nLes choses que vous mesurez ont tendance à s'améliorer"
+  },
+  "navigation": {
+    "tabs": {
+      "reports": "Prières",
+      "stats": "Statistiques",
+      "home": "iSalat",
+      "targets": "Objectifs",
+      "settings": "Paramètres"
+    }
+  },
+  "language": {
+    "french": "Français",
+    "english": "Anglais"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "enabled": "Actif",
+    "disabled": "Inactif",
+    "appearanceSection": "Apparence",
+    "darkMode": {
+      "title": "Mode Nuit"
+    },
+    "notification": {
+      "notificationTitle": "Notifications"
+    },
+    "permission": {
+      "sectionTitle": "Permissions",
+      "permissionTitle": "Permissions"
+    },
+    "privacySection": "Protection des données",
+    "dataCollect": {
+      "title": "Collecte des données",
+      "subtitle": "La collecte de données nous permet d'améliorer le service."
+    },
+    "langChoice": {
+      "title": "Langue",
+      "french": "Français",
+      "english": "Anglais"
+    },
+    "general" : {
+      "sectionTitle": "General",
+      "disconnect": {
+        "title": "Deconnexion",
+        "french": "Français",
+        "english": "Anglais"
+      },
+      "onboarding": {
+        "title": "Aide",
+        "french": "Français",
+        "english": "Anglais"
+      }
+    }
+  }
+}

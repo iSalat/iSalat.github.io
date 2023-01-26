@@ -1,0 +1,95 @@
+{
+  "title": "iSalat",
+  "enterEmail": "You must enter your email",
+  "invalidEmail": "Invalid email",
+  "enterFirstName": "You must enter your first name",
+  "invalidFirstName": "Invalid first name",
+  "enterFamilyName": "You must enter your family name",
+  "invalidFamilyName": "Invalid family name",
+  "enterPassword": "You must enter your password",
+  "weakPassword": "Password too weak",
+  "login": {
+    "passwordHint": "Password",
+    "confirmPasswordHint": "Confirm password",
+    "loginButton": "Log in",
+    "signupButton": "Sign up",
+    "firstName": "First name",
+    "familyName": "Family name",
+    "gender": "Gender",
+    "signUpFormDescription": "Please fill in this form to complete the signup",
+    "forgotPasswordButton": "Forgotten password",
+    "recoverPasswordIntro": "Reset password",
+    "recoverPasswordDescription": "An email with your password will be sent to your account email address",
+    "recoverPasswordButton": "Reset",
+    "goBackButton": "Back",
+    "unknownUser": "Unknown user",
+    "incorrectPassword": "Incorrect password",
+    "footer": "iSalat - 2022"
+  },
+  "onboarding": {
+    "letsGo": "Let's go right away!",
+    "signIn": "SignIn",
+    "skip": "Skip",
+    "done": "Done",
+    "recordTitle": "Track",
+    "recordText": "In one click, indicate how and when you prayed",
+    "trackTitle": "Follow",
+    "trackText": "Get a follow-up of your prayers to know your strengths and areas for improvement",
+    "improveTitle": "Improve",
+    "improveText": "Set goals to improve yourself",
+    "improveSalatTitle": "Improve your salat",
+    "improveSalatText": "If you don't want to measure it, you probably can't manage it.\n\nThe things you measure tend to get better"
+  },
+  "navigation": {
+    "tabs": {
+      "reports": "Prayers",
+      "stats": "Stats",
+      "home": "iSalat",
+      "targets": "Targets",
+      "settings": "Settings"
+    }
+  },
+  "language": {
+    "french": "French",
+    "english": "English"
+  },
+  "settings": {
+    "title": "Settings",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "appearanceSection": "Appearance",
+    "darkMode": {
+      "title": "Dark Mode"
+    },
+    "notification": {
+      "notificationTitle": "Notifications"
+    },
+    "permission": {
+      "sectionTitle": "Permissions",
+      "permissionTitle": "Permissions"
+    },
+    "privacySection": "Data privacy",
+    "dataCollect": {
+      "title": "Data collection",
+      "subtitle": "Data collection allows us to improve the service."
+    },
+    "langChoice": {
+      "title": "Preferred language",
+      "french": "French",
+      "english": "English"
+    },
+    "general" : {
+      "sectionTitle": "General",
+      "disconnect": {
+        "title": "Disconnect",
+        "french": "French",
+        "english": "English"
+      },
+      "onboarding": {
+        "title": "Help",
+        "french": "French",
+        "english": "English"
+      }
+    }
+  }
+}
