@@ -34,7 +34,9 @@
 </head>
 <body>
   <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-  <!-- Firebase Configuration -->
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-analytics.js"></script>
+
+<!-- Firebase Configuration -->
   <script>
       var firebaseConfig = {
         apiKey: "AIzaSyAo99dgPKYKqwiCtguZZH6ubd1z1V1jSB0",
@@ -47,7 +49,8 @@
       };
 
       // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
   </script>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
