@@ -8,6 +8,10 @@
   "invalidFamilyName": "Invalid family name",
   "enterPassword": "You must enter your password",
   "weakPassword": "Password too weak",
+  "save": "Save",
+  "cancel": "Cancel",
+  "authorize": "Authorize",
+  "deny": "Deny",
   "login": {
     "passwordHint": "Password",
     "confirmPasswordHint": "Confirm password",
@@ -24,13 +28,14 @@
     "goBackButton": "Back",
     "unknownUser": "Unknown user",
     "incorrectPassword": "Incorrect password",
-    "footer": "iSalat - 2022"
+    "footer": "iSalat - "
   },
   "onboarding": {
     "letsGo": "Let's go right away!",
     "signIn": "SignIn",
     "skip": "Skip",
     "done": "Done",
+    "understand": "Understood",
     "recordTitle": "Track",
     "recordText": "In one click, indicate how and when you prayed",
     "trackTitle": "Follow",
@@ -62,7 +67,22 @@
       "title": "Dark Mode"
     },
     "notification": {
-      "notificationTitle": "Notifications"
+      "title": "Notifications",
+      "description": "The iSalat app needs this permission to send you notifications.\n\nDo you authorize sending notifications ?"
+    },
+    "location": {
+      "title": "Location",
+      "geolocation": "Geolocation",
+      "loading": "Retrieving location...",
+      "error": "Unable to retrieve location",
+      "permission": "Location permission required",
+      "automaticLocation": "Automatic geolocation",
+      "manualLocation": "Manual geolocation",
+      "description": "To provide you with more accurate prayer times based on your current location,\nThe iSalat app needs access to your geolocation.\n\nDo you authorize access to your location ?",
+      "hint": "Enter the name of the town",
+      "actualLocation": "Actual city : ",
+      "permissionDenied": "Location permissions are denied",
+      "permissionDeniedPermanently": "Location permissions are permanently denied,\nwe cannot request permissions."
     },
     "permission": {
       "sectionTitle": "Permissions",

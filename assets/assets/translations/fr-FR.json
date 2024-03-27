@@ -8,6 +8,10 @@
   "invalidFamilyName": "Nom de famille non valide",
   "enterPassword": "Vous devez saisir votre mot de passe",
   "weakPassword": "Mot de passe trop faible",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "authorize": "Autoriser",
+  "deny": "Refuser",
   "login": {
     "passwordHint": "Mot de passe",
     "confirmPasswordHint": "Confirmer le mot de passe",
@@ -24,13 +28,14 @@
     "goBackButton": "Précédent",
     "unknownUser": "Utilisateur inconnnu",
     "incorrectPassword": "Mot de passe incorrect",
-    "footer": "iSalat - 2022"
+    "footer": "iSalat - "
   },
   "onboarding": {
     "letsGo": "Allons-y tout de suite !",
     "signIn": "Se connecter",
     "skip": "Passer",
     "done": "Fait",
+    "understand": "Compris",
     "recordTitle": "Enregistre",
     "recordText": "En un clic, indique comment et quand tu as prié",
     "trackTitle": "Suis",
@@ -62,7 +67,22 @@
       "title": "Mode Nuit"
     },
     "notification": {
-      "notificationTitle": "Notifications"
+      "title": "Notifications",
+      "description": "L'application iSalat a besoin de cette permission pour vous notifier des prières tout au long de la journée.\n\nVoulez-vous autoriser l'envoi de notifications ?"
+    },
+    "location": {
+      "title": "Localisation",
+      "geolocation": "Geolocalisation",
+      "loading": "Récuperation de votre position...",
+      "error": "Impossible de récupérer votre position",
+      "permission": "Localisation requise",
+      "automaticLocation": "Geolocalisation automatique",
+      "manualLocation": "Geolocalisation manuelle",
+      "description": "Pour vous fournir des horaires de prières plus précises basés sur votre emplacement actuel,\nl'application iSalat a besoin de l'accès à votre géolocalisation.\n\nVoulez-vous autoriser l'accès à votre position ?",
+      "hint": "Entrer le nom de la ville",
+      "actualLocation": "Ville actuelle : ",
+      "permissionDenied": "Les autorisations de localisation sont refusées",
+      "permissionDeniedPermanently": "Les autorisations de localisation sont refusées en permanence,\nnous ne pouvons pas demander de permissions."
     },
     "permission": {
       "sectionTitle": "Permissions",
