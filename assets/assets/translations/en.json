@@ -110,6 +110,14 @@
         "french": "French",
         "english": "English"
       }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "silent": "Silent",
+      "vibration": "Vibration",
+      "sound": "Sound",
+      "switch_title": "Accompanying notifications",
+      "switch_description": "Notifications will be sent to you to help you achieve your prayers and goals."
     }
   }
 }

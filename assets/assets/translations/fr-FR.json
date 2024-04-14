@@ -110,6 +110,14 @@
         "french": "Français",
         "english": "Anglais"
       }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "silent": "Silencieux",
+      "vibration": "Vibration",
+      "sound": "Son",
+      "switch_title": "Notifications d'accompagnement",
+      "switch_description": "Des notifications vous seront envoyées pour vous aider dans la réalisation de vos prières et de vos objectifs."
     }
   }
 }
