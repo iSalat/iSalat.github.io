@@ -85,8 +85,10 @@
       "permissionDeniedPermanently": "Les autorisations de localisation sont refusées en permanence,\nnous ne pouvons pas demander de permissions."
     },
     "permission": {
-      "sectionTitle": "Permissions",
-      "permissionTitle": "Permissions"
+      "title": "Permissions"
+    },
+    "calculation": {
+      "title": "Méthodes de calcul"
     },
     "privacySection": "Protection des données",
     "dataCollect": {

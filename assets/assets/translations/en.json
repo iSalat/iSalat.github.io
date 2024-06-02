@@ -85,8 +85,10 @@
       "permissionDeniedPermanently": "Location permissions are permanently denied,\nwe cannot request permissions."
     },
     "permission": {
-      "sectionTitle": "Permissions",
-      "permissionTitle": "Permissions"
+      "title": "Permissions"
+    },
+    "calculation": {
+      "title": "Calculation methods"
     },
     "privacySection": "Data privacy",
     "dataCollect": {
